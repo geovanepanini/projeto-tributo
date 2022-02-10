@@ -1,1 +1,1 @@
-"# projeto-tributo" 
+O projeto consiste na criação de uma landing page!
